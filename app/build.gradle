@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.somekoder.colourpalette'
+    namespace 'com.somekoder.themepalette'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.somekoder.colourpalette"
+        applicationId "com.somekoder.themepalette"
         minSdk 31
         targetSdk 33
         versionCode 1
@@ -32,6 +32,7 @@ android {
     }
     kotlinOptions {
         jvmTarget = '1.8'
+        freeCompilerArgs += "-Xopt-in=kotlin.RequiresOptIn"
     }
     buildFeatures {
         compose true
