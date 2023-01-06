@@ -2,7 +2,7 @@
 
 This app was designed to provide a clear and comprehensive overview of the theme currently in use on Android 12+ devices.
 
-<img src="https://github.com/SomeKoder/ThemePalette/blob/master/photos/screen_main_1.PNG" width="200">
+<img src="https://github.com/SomeKoder/ThemePalette/blob/master/photos/banner.png" width="1000">
 
 ## Reporting bugs
 
