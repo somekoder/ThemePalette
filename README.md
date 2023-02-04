@@ -1,8 +1,11 @@
 # ThemePalette
 
-This app was designed to provide a clear and comprehensive overview of the theme currently in use on Android 12+ devices.
+Theme Palette was designed to provide a clear and comprehensive overview of the theme currently in use on Android 12+ devices.
 
 <img src="https://github.com/SomeKoder/ThemePalette/blob/master/photos/banner.png" width="1000">
+
+## Google Play
+You can download the app and try it out on [Google Play](https://play.google.com/store/apps/details?id=com.somekoder.themepalette)!
 
 ## Reporting bugs
 
